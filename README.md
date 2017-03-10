@@ -29,14 +29,18 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
 * Wavelet Tree: https://www.dcc.uchile.cl/~jperez/papers/ioiconf16.pdf
 
 ### Dynamic Programming (DP):
-* Algorithms: Memoization and Dynamic Programming: https://www.youtube.com/watch?v=P8Xa2BitN3I
+* ¿Qué es DP?
+  * https://www.youtube.com/watch?v=P8Cm_koLdxM
+  * https://www.youtube.com/watch?v=P8Xa2BitN3I
+* Bottom-Up vs Top-Down: http://stackoverflow.com/questions/6164629/dynamic-programming-and-memoization-bottom-up-vs-top-down-approaches
 * Playlist con muchos ejemplos: https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
-* Divide & Conquer Optimization for DP:
-  * http://jeffrey-xiao.github.io/#!/blog/posts/2015-12-14-Divide-and-Conquer-Optimization
-  * https://www.hackerrank.com/contests/ioi-2014-practice-contest-2/challenges/guardians-lunatics-ioi14/editorial
-  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Dynamic_Programming/Divide%26ConquerOptimization.cpp  
-  * https://www.youtube.com/watch?v=wLXEWuDWnzI
-  
+* Optimizaciones para DP: 
+  * Divide & Conquer Optimization:
+    * http://jeffrey-xiao.github.io/#!/blog/posts/2015-12-14-Divide-and-Conquer-Optimization
+    * https://www.hackerrank.com/contests/ioi-2014-practice-contest-2/challenges/guardians-lunatics-ioi14/editorial
+    * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Dynamic_Programming/Divide%26ConquerOptimization.cpp     
+    * https://www.youtube.com/watch?v=wLXEWuDWnzI
+    
 ### Graphs:
 * Play list sobre Grafos: https://www.youtube.com/playlist?list=PLrmLmBdmIlpu2f2g8ltqaaCZiq6GJvl1j
 * Breadth First Search (BFS) & Depth First Search (DFS):
