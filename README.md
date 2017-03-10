@@ -49,6 +49,7 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
 * Articulation Point and Bridge/Cut Edges: 
   * https://www.youtube.com/watch?v=zxa4ZXnbMVw
   * https://www.youtube.com/watch?v=2kREIkF9UAs
+  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/articulation_points_cut_edges.cpp
 * Diameter of a Tree: http://cs.stackexchange.com/questions/22855/algorithm-to-find-diameter-of-a-tree-using-bfs-dfs-why-does-it-work
 * Dijkstra: https://www.youtube.com/watch?v=gdmfOwyQlcI
 * Minimum Spanning Tree:
