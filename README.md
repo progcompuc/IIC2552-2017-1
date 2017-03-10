@@ -21,6 +21,12 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
 * Ternary Search: https://en.wikipedia.org/wiki/Ternary_search
 
 ### Data Structures:
+* Union Find (Disjoint Sets): https://www.youtube.com/watch?v=ID00PMy0-vE
+* Segment Tree: https://www.youtube.com/watch?v=ZBHKZF5w4YU
+* Segment Tree Lazy: https://www.youtube.com/watch?v=xuoQdt5pHj0
+* Fenwick Tree:  & https://www.youtube.com/watch?v=CWDQJGaN1gY
+* Fenwick Tree 2D: http://www.geeksforgeeks.org/two-dimensional-binary-indexed-tree-or-fenwick-tree/
+* Wavelet Tree: https://www.dcc.uchile.cl/~jperez/papers/ioiconf16.pdf
 
 ### Dynamic Programming (DP):
 * Algorithms: Memoization and Dynamic Programming: https://www.youtube.com/watch?v=P8Xa2BitN3I
@@ -33,10 +39,37 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
   
 ### Graphs:
 * Play list sobre Grafos: https://www.youtube.com/playlist?list=PLrmLmBdmIlpu2f2g8ltqaaCZiq6GJvl1j
-* Apuntes Pablo Messina sobre Grafos: https://github.com/PabloMessina/Competitive-Programming-Material/tree/master/Graphs
 * Breadth First Search (BFS) & Depth First Search (DFS):
   * https://www.youtube.com/watch?v=ImMnYq2zP4Y
   * https://www.youtube.com/watch?v=zaBhtODEL0w
+* Articulation Point and Bridge/Cut Edges: 
+  * https://www.youtube.com/watch?v=zxa4ZXnbMVw
+  * https://www.youtube.com/watch?v=2kREIkF9UAs
+* Diameter of a Tree: http://cs.stackexchange.com/questions/22855/algorithm-to-find-diameter-of-a-tree-using-bfs-dfs-why-does-it-work
+* Dijkstra: https://www.youtube.com/watch?v=gdmfOwyQlcI
+* Minimum Spanning Tree:
+  * Kruskal's Algorithm:
+    * https://www.youtube.com/watch?v=fAuF0EuZVCk
+    * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/Kruskal.cpp
+  * Prim's Algorithm: https://www.youtube.com/watch?v=oP2-8ysT3QQ
+* Topological Sort:
+  * https://www.youtube.com/watch?v=ddTC4Zovtbc
+  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/TopoSort.cpp
+* Lowest Common Ancestor:
+  * https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/
+  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/LCA.cpp
+* Level Ancestor:
+  * https://en.wikipedia.org/wiki/Level_ancestor_problem
+  * https://www.quora.com/Why-does-storing-log-N-pointers-work-in-the-jump-pointer-solution-of-the-level-ancestor-problem
+  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/LA.cpp
+* Max Flow:
+  * Ford-Fulkerson Algorithm: https://www.youtube.com/watch?v=Tl90tNtKvxs
+  * Dinic Algorithm:
+    * https://www.youtube.com/watch?v=uM06jHdIC70
+    * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/Dinic.cpp
+  * Application:
+    * Maximum Bipartite Matching: http://www.geeksforgeeks.org/maximum-bipartite-matching/
+
   
 ### Strings:
 
