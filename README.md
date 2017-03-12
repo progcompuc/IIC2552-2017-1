@@ -5,7 +5,8 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
 
 ## Material de Estudio
 ### General
-* Libro de programación competitiva (C_P_3): https://www.dropbox.com/s/zlfto2p4zyrniva/_C_P_3_.pdf?dl=0
+* Techie Delight: Coding made easy: http://www.techiedelight.com/
+* Libro de Programación Competitiva: https://www.dropbox.com/s/zlfto2p4zyrniva
 * Repo de Apuntes de Pablo Messina (C++): https://github.com/PabloMessina/Competitive-Programming-Material
 * Google Doc con Apuntes de Robinson Castro et al (C++): https://docs.google.com/document/d/1pan53PU9_PIrPPVyNrbfXIAU-B6YnIaSBcB9lP9j0jE/edit
 * Repo de Apuntes del team Caloventor en Dos (C++): https://github.com/mvpossum/eldiego
