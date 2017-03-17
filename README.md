@@ -17,6 +17,7 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
   * Blog CaloventorEnDos: http://caloventorendos.blogspot.cl
   * Chocoblog: https://chococontest.wordpress.com/
 * Google Sheet con soluciones de las últimas regionales (work in progress): https://docs.google.com/spreadsheets/d/1F8aBV83xKPVFfq_A0EKhCa8qbjf0gKKg8puQF-rbonQ/pubhtml
+* C++ Cheat Sheet de Pablo Messina: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/c%2B%2B_cheat_sheet.cpp
 
 ### Search:
 * Binary Search: https://www.youtube.com/watch?v=jf1baieXkSQ
@@ -111,10 +112,28 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/modular_binomial_coefficient.cpp
 
 ### Geometry:
+* Convex Hull:
+  * Graham Scan Algorithm: https://www.youtube.com/watch?v=wRTGDig3jx8
+  * Monotone Chain Algorithm: https://www.youtube.com/watch?v=A4uWWnzTplM
+  * Graham Scan vs Monotone Chain: http://geomalgorithms.com/a10-_hull-1.html
+  * https://en.wikibooks.org/wiki/Algorithm_Implementation/Geometry/Convex_hull/Monotone_chain
+  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/ConvexHull.cpp
+* Point in Polygon:
+  * http://geomalgorithms.com/a03-_inclusion.html
+  * https://en.wikipedia.org/wiki/Point_in_polygon
+  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/PointInPolygon.cpp
+  * Point in Convex Polygon: http://stackoverflow.com/questions/1119627/how-to-test-if-a-point-is-inside-of-a-convex-polygon-in-2d-integer-coordinates
+* Area of Simple Polygon:
+  * http://stackoverflow.com/questions/451426/how-do-i-calculate-the-area-of-a-2d-polygon
+  * http://math.blogoverflow.com/2014/06/04/greens-theorem-and-area-of-polygons/
+  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/PolygonArea.cpp
+* Geometry 2D Utility Code: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Geometry/Geometry2DUtils.cpp
+
+
 _______________________________________________
 
 ## Instrucciones para participar en contests:
-Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2OJ permite realizar contests con problemas de diferentes jueces online (Codeforces, Live Archive, UVA, SPOJ, etc.). Por lo tanto, necesitan crearse primero una cuenta en A2OJ, luego deben crearse cuentas en los jueces online que vayamos utilizando, y finalmente deben preocuparse de *linkear* sus cuentas de los jueces con su cuenta de A2OJ (para que A2OJ se pueda dar cuenta de que resolvieron un problema en un juez dado). A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir creándose las cuentas on demand (para cada contests se publicará con anticipación el link para registrarse + los jueces a utilizar). De todas formas acá abajo pueden encontrar links a posibles jueces:
+Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2OJ permite realizar contests  con problemas de diferentes jueces online (Codeforces, Live Archive, UVA, SPOJ, etc.). Por lo tanto, necesitan crearse primero una cuenta en A2OJ, luego deben crearse cuentas en los jueces online que vayamos utilizando, y finalmente deben preocuparse de *linkear* sus cuentas de los jueces con su cuenta de A2OJ (para que A2OJ se pueda dar cuenta de que resolvieron un problema en un juez dado). A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir creándose las cuentas on demand (para cada contests se publicará con anticipación el link para registrarse + los jueces a utilizar). De todas formas acá abajo pueden encontrar links a posibles jueces:
 
 * Codeforces: http://codeforces.com/
 * Live Archive: https://icpcarchive.ecs.baylor.edu/
