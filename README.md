@@ -4,6 +4,7 @@
 Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
 
 ## Material de Estudio
+
 ### General
 * Techie Delight: Coding made easy: http://www.techiedelight.com/
 * Libro de Programación Competitiva: https://www.dropbox.com/s/zlfto2p4zyrniva
@@ -41,7 +42,7 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
     * https://www.hackerrank.com/contests/ioi-2014-practice-contest-2/challenges/guardians-lunatics-ioi14/editorial
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Dynamic_Programming/Divide%26ConquerOptimization.cpp     
     * https://www.youtube.com/watch?v=wLXEWuDWnzI
-    
+   
 ### Graphs:
 * Play list sobre Grafos: https://www.youtube.com/playlist?list=PLrmLmBdmIlpu2f2g8ltqaaCZiq6GJvl1j
 * Breadth First Search (BFS) & Depth First Search (DFS):
@@ -76,10 +77,38 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
   * Application:
     * Maximum Bipartite Matching: http://www.geeksforgeeks.org/maximum-bipartite-matching/
 
-  
 ### Strings:
+* KMP (String Pattern Matching):
+  * https://www.youtube.com/watch?v=v82y5TCcBhQ
+  * https://www.youtube.com/watch?v=GTJr8OvyEVQ
+  * https://www.youtube.com/watch?v=KG44VoDtsAA
+  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Strings/KMP.cpp
+* Shortest Repeating Cycle:
+  * http://www.geeksforgeeks.org/find-given-string-can-represented-substring-iterating-substring-n-times/
+  * http://stackoverflow.com/questions/6021274/finding-shortest-repeating-cycle-in-word
+  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Strings/shortest_repeating_cycle.cpp
 
 ### Mathematics:
+* Prime Numbers:
+  * Sieve of Eratosthenes (all primes up to N): https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
+  * Prime Factorization of Factorials: http://mathforum.org/library/drmath/view/67291.html
+* Modular Arithmetics:
+  * ¿De qué se trata Modular Arithmetics?
+    * Introduction to Modular arithmetic: https://www.youtube.com/watch?v=9lUSKOjV4d0
+    * High level introduction to modular arithmetic: https://www.youtube.com/watch?v=r0gYad8auYY
+    * Congruence (Modular Arithmetic) & 5 Properties Explained with 7 Problems: Ultimate Shortcuts: https://www.youtube.com/watch?v=B1gD6540uWA
+  * Modular Exponentiation By Squaring:
+    * https://en.wikipedia.org/wiki/Modular_exponentiation#Right-to-left_binary_method
+    * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/binary_modular_exponentiation.cpp
+  * Modular Fibonacci with Exponentiation by Squaring:
+    * http://mathoverflow.net/questions/40816/fibonacci-series-mod-a-number
+  * Euclidean Algorithm:
+    * GCD (greatest common divisor): https://www.youtube.com/watch?v=5jLWXwSXJdg
+    * GCD extendido: https://www.youtube.com/watch?v=hB34-GSDT3k
+    * Multiplicative Inverse Mod N: https://www.youtube.com/watch?v=_bRVA5b4sb4
+    * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/euclidean_algorithm.cpp
+  * Modular Binomial Coefficient (Choose(n,k) mod X):
+    * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/modular_binomial_coefficient.cpp
 
 ### Geometry:
 _______________________________________________
