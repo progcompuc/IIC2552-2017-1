@@ -97,7 +97,7 @@ Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2
 * Taller 1: https://a2oj.com/contest?ID=30488
   * Disponibilidad: 03/17/2017 - 03/24/2017 
   * Jueces utilizados: Codeforces, Live Archive
-  * hints: implementation, strings, DFS/BFS, geometry/math, greedy, sorting, binary search, two pointers, modular arithmetics
+  * hints: implementation, strings, DFS/BFS, geometry/math, greedy, sorting, binary search, two pointers, modular arithmetics, DP
 
 
 
