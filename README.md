@@ -17,7 +17,22 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
   * Blog CaloventorEnDos: http://caloventorendos.blogspot.cl
   * Chocoblog: https://chococontest.wordpress.com/
 * Google Sheet con soluciones de las últimas regionales (work in progress): https://docs.google.com/spreadsheets/d/1F8aBV83xKPVFfq_A0EKhCa8qbjf0gKKg8puQF-rbonQ/pubhtml
-* C++ Cheat Sheet de Pablo Messina: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/c%2B%2B_cheat_sheet.cpp
+
+### Aprender C++
+ * C++ Programming Video Tutorials For Beginners [ Complete Series ]: https://www.youtube.com/playlist?list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C
+ * C++ Tutorial (SOLO LEARN: EVERYONE CAN CODE): https://www.sololearn.com/Course/CPlusPlus/
+ * C++ Cheat Sheet de Pablo Messina: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/c%2B%2B_cheat_sheet.cpp
+ * cin/cout vs printf/scanf: http://www.cplusplus.com/forum/beginner/34165/
+ * Instalando y corriendo C++:
+   * Windows:
+     * http://www.mingw.org/Welcome_to_MinGW_org
+     * https://www.quora.com/How-do-I-compile-a-C++-program-on-a-Windows-PC-in-CMD
+   * Ubuntu:
+     * http://askubuntu.com/questions/348654/how-to-install-g-compiler
+     * http://askubuntu.com/questions/61408/what-is-a-command-to-compile-and-run-c-programs
+   * Mac:
+     * https://www.quora.com/What-is-the-best-FREE-C-C++-compiler-for-Mac-OS
+     * http://stackoverflow.com/questions/9148488/how-do-i-compile-c-with-clang
 
 ### Search:
 * Binary Search: https://www.youtube.com/watch?v=jf1baieXkSQ
@@ -133,7 +148,7 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
 _______________________________________________
 
 ## Instrucciones para participar en contests:
-Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2OJ permite realizar contests  con problemas de diferentes jueces online (Codeforces, Live Archive, UVA, SPOJ, etc.). Por lo tanto, necesitan crearse primero una cuenta en A2OJ, luego deben crearse cuentas en los jueces online que vayamos utilizando, y finalmente deben preocuparse de *linkear* sus cuentas de los jueces con su cuenta de A2OJ (para que A2OJ se pueda dar cuenta de que resolvieron un problema en un juez dado). A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir creándose las cuentas on demand (para cada contests se publicará con anticipación el link para registrarse + los jueces a utilizar). De todas formas acá abajo pueden encontrar links a posibles jueces:
+Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2OJ permite realizar contests  con problemas de diferentes jueces online (Codeforces, Live Archive, UVA, SPOJ, etc.). Por lo tanto, necesitan crearse primero una cuenta en A2OJ, luego deben crearse cuentas en los jueces online que vayamos utilizando, y finalmente deben preocuparse de *linkear* sus cuentas de los jueces con su cuenta de A2OJ (para que A2OJ se pueda dar cuenta de que resolvieron un problema en un juez dado). A priori no sabemos todos los jueces que vamos a utilizar, así que pueden ir creándose las cuentas on demand (para cada contest se publicará con anticipación el link para registrarse + los jueces a utilizar). De todas formas acá abajo pueden encontrar links a posibles jueces:
 
 * Codeforces: http://codeforces.com/
 * Live Archive: https://icpcarchive.ecs.baylor.edu/
