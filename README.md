@@ -96,6 +96,7 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
 ### Strings:
 * Trie:
   * https://en.wikipedia.org/wiki/Trie
+  * https://www.youtube.com/watch?v=zIjfhVPRZCg
   * https://www.youtube.com/watch?v=AXjmTQ8LEoI
   * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Strings/Trie.cpp
 * KMP (String Pattern Matching):
