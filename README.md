@@ -164,8 +164,12 @@ Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2
 ## Contests
 * Taller 1: https://a2oj.com/contest?ID=30488
   * Disponibilidad: 03/17/2017 - 03/24/2017 
-  * Jueces utilizados: Codeforces, Live Archive
+  * Jueces a utilizar: Codeforces, Live Archive
   * hints: implementation, strings, DFS/BFS, geometry/math, greedy, sorting, binary search, two pointers, modular arithmetics, DP
+* Taller 2: https://a2oj.com/contest?ID=30727
+  * Disponibilidad: 03/24/2017 - 03/31/2017
+  * Jueces a utilizar: Codeforces, Live Archive, URI, SPOJ
+  * hints: Grafos (BFS, DFS, Flood Fill, Dijsktra, Trees) + Binary Search + Ternary Search + Union-Find. Todos los problemas tienen que ver de alguna manera con grafos, pero un par de problemas requieren Binary Search/Ternary Search y el más difícil además necesita la estructura de datos Union-Find. Respecto a grafos, un par de problemas usan el algoritmo de Dijkstra.
 
 
 
