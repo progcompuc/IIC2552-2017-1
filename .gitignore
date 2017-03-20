@@ -1,0 +1,17 @@
+*.aux
+*.out
+*.synctex.gz
+*.txss
+*.texlipse
+*.project
+*.blg
+*.fls
+*.fdb_latexmk
+.DS_Store
+*.toc
+Latex/.metadata/
+*.nav
+*.snm
+*.log
+Latex/Programa/programa.pdf
+*.prefs
