@@ -178,4 +178,4 @@ Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2
 * Taller 2: https://a2oj.com/contest?ID=30727
   * Disponibilidad: 03/24/2017 - 03/31/2017
   * Jueces a utilizar: Codeforces, Live Archive, URI, SPOJ
-  * hints: Grafos (BFS, DFS, Flood Fill, Dijkstra, Trees) + Binary Search + Ternary Search + Union-Find. Todos los problemas tienen que ver de alguna manera con grafos, pero un par de problemas requieren Binary Search/Ternary Search y el más difícil además necesita la estructura de datos Union-Find. Respecto a grafos, un par de problemas usan el algoritmo de Dijkstra.
+  * hints: Grafos (BFS, DFS, Flood Fill, Dijkstra, Trees) + Binary Search + Ternary Search + Union-Find. Todos los problemas tienen que ver de alguna manera con grafos, pero un par de problemas requieren Binary Search/Ternary Search y el más difícil además necesita la estructura de datos Union-Find. Sobre grafos, lo más difícil sería el algoritmo de Dijkstra.
