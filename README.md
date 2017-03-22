@@ -39,8 +39,13 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
      * http://stackoverflow.com/questions/9148488/how-do-i-compile-c-with-clang
 
 ### Search:
-* Binary Search: https://www.youtube.com/watch?v=jf1baieXkSQ
-* Ternary Search: https://en.wikipedia.org/wiki/Ternary_search
+* Binary Search:
+  * https://www.youtube.com/watch?v=jf1baieXkSQ
+  * https://www.tutorialspoint.com/data_structures_algorithms/binary_search_algorithm.htm
+  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Search/BinarySearch.cpp
+* Ternary Search:
+  * https://en.wikipedia.org/wiki/Ternary_search
+  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Search/TernarySearch.cpp
 
 ### Data Structures:
 * Union Find (Disjoint Sets):
