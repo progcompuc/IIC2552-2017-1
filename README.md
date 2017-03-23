@@ -13,7 +13,11 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
 * Repo de Apuntes del team Caloventor en Dos (C++): https://github.com/mvpossum/eldiego
 * Programación Competitiva CL:  https://www.youtube.com/channel/UCmVg7YyMS8H-65WCmkVHB9g/feed
 * Tushar Roy - Coding Made Simple: https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw
-* Blogs con explicaciones de problemas de regionales latinoamericanas:
+* Material Campamento 2015 progcomp.cl: http://campamento2015.progcomp.cl/material
+* Material Campamento 2016 progcomp.cl: http://campamento2016.progcomp.cl/material
+
+### Soluciones Regionales Latinoamericanas
+* Blogs con explicaciones:
   * Blog CaloventorEnDos: http://caloventorendos.blogspot.cl
   * Chocoblog: https://chococontest.wordpress.com/
 * Google Sheet con soluciones de las últimas regionales (work in progress): https://docs.google.com/spreadsheets/d/1F8aBV83xKPVFfq_A0EKhCa8qbjf0gKKg8puQF-rbonQ/pubhtml
@@ -35,11 +39,18 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
      * http://stackoverflow.com/questions/9148488/how-do-i-compile-c-with-clang
 
 ### Search:
-* Binary Search: https://www.youtube.com/watch?v=jf1baieXkSQ
-* Ternary Search: https://en.wikipedia.org/wiki/Ternary_search
+* Binary Search:
+  * https://www.youtube.com/watch?v=jf1baieXkSQ
+  * https://www.tutorialspoint.com/data_structures_algorithms/binary_search_algorithm.htm
+  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Search/BinarySearch.cpp
+* Ternary Search:
+  * https://en.wikipedia.org/wiki/Ternary_search
+  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Search/TernarySearch.cpp
 
 ### Data Structures:
-* Union Find (Disjoint Sets): https://www.youtube.com/watch?v=ID00PMy0-vE
+* Union Find (Disjoint Sets):
+  * https://www.youtube.com/watch?v=ID00PMy0-vE
+  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Data_Structures/unionfind.cpp
 * Segment Tree: https://www.youtube.com/watch?v=ZBHKZF5w4YU
 * Segment Tree Lazy: https://www.youtube.com/watch?v=xuoQdt5pHj0
 * Fenwick Tree:  & https://www.youtube.com/watch?v=CWDQJGaN1gY
@@ -60,10 +71,14 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
     * https://www.youtube.com/watch?v=wLXEWuDWnzI
    
 ### Graphs:
+* Slides de Nico Lehmann sobre Grafos:
+  * http://campamento2015.progcomp.cl/material (revisar la parte Grafos)
+  * http://campamento2015.progcomp.cl/material (revisar la parte Grafos)  
 * Play list sobre Grafos: https://www.youtube.com/playlist?list=PLrmLmBdmIlpu2f2g8ltqaaCZiq6GJvl1j
 * Breadth First Search (BFS) & Depth First Search (DFS):
   * https://www.youtube.com/watch?v=ImMnYq2zP4Y
   * https://www.youtube.com/watch?v=zaBhtODEL0w
+* Flood Fill: https://en.wikipedia.org/wiki/Flood_fill
 * Articulation Point and Bridge/Cut Edges: 
   * https://www.youtube.com/watch?v=zxa4ZXnbMVw
   * https://www.youtube.com/watch?v=2kREIkF9UAs
@@ -164,11 +179,9 @@ Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2
 ## Contests
 * Taller 1: https://a2oj.com/contest?ID=30488
   * Disponibilidad: 03/17/2017 - 03/24/2017 
-  * Jueces utilizados: Codeforces, Live Archive
+  * Jueces a utilizar: Codeforces, Live Archive
   * hints: implementation, strings, DFS/BFS, geometry/math, greedy, sorting, binary search, two pointers, modular arithmetics, DP
-
-
-
-
-
- 
+* Taller 2: https://a2oj.com/contest?ID=30727
+  * Disponibilidad: 03/24/2017 - 03/31/2017
+  * Jueces a utilizar: Codeforces, Live Archive, URI, SPOJ
+  * hints: Grafos (BFS, DFS, Flood Fill, Dijkstra, Trees) + Binary Search + Ternary Search + Union-Find. Todos los problemas tienen que ver de alguna manera con grafos, pero un par de problemas requieren Binary Search/Ternary Search y el más difícil además necesita la estructura de datos Union-Find. Sobre grafos, lo más difícil sería el algoritmo de Dijkstra.
