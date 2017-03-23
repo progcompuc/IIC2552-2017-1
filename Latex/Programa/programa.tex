@@ -1,0 +1,170 @@
+\documentclass[10pt,letterpaper]{extarticle}
+\usepackage{logo}
+\usepackage{fullpage}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage[hidelinks]{hyperref}
+\usepackage{epsfig}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{gensymb}
+\usepackage{multicol}
+\usepackage{color}
+\usepackage{hhline}
+\usepackage{epstopdf}
+\usepackage{tikz}
+\usepackage[sol]{optional}
+
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Exp}[1]{\mathcal{E}_{#1}}
+\newcommand{\List}[1]{\mathcal{L}_{#1}}
+\newcommand{\Array}[1]{\mathcal{A}_{#1}}
+\newcommand{\EN}{\Exp{\N}}
+\newcommand{\LN}{\List{\N}}
+\newcommand{\AB}{\Array{B}}
+\newcommand{\AN}{\Array{\N}}
+
+\newcommand{\comment}[1]{}
+\newcommand{\lb}{\\~\\}
+\newcommand{\eop}{_{\square}}
+\newcommand{\hsig}{\hat{\sigma}}
+\newcommand{\ra}{\rightarrow}
+\newcommand{\lra}{\leftrightarrow}
+\newcommand{\ar}[2]{\big[#1 : #2\big]}
+
+\newcommand{\twopartdef}[4]
+{
+	\left\{
+		\begin{array}{ll}
+			#1 &  #2 \\
+			#3 &  #4
+		\end{array}
+	\right.
+}
+
+\begin{document}
+\begin{tabular}{ccl}
+\begin{tabular}{c}
+\psfig{file=puclogo.eps}
+\end{tabular}
+&\ \ \ &
+\begin{tabular}{l}
+PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE\\
+ESCUELA DE INGENIERIA\\
+DEPARTAMENTO DE CIENCIA DE LA COMPUTACION
+\end{tabular}
+\end{tabular}
+
+\begin{center}
+\bf IIC2552 - Taller de Programación Avanzada\\
+\bf 1\degree semestre 2017
+
+\vspace{0.5cm}
+
+\bf {\Huge Programa de curso}
+\end{center}
+
+\vspace{4ex}
+
+\begin{center}
+\begin{tabular}{l l l c l}
+	\textbf{Profesor} : & Gabriel
+	Diéguez (\href{mailto:gsdieguez@ing.puc.cl}{gsdieguez@ing.puc.cl}) &
+	\textbf{Horario cátedra} & : & V:4-6, sala Javier Pinto\\
+	\textbf{Ayudante} : & Pablo Messina
+	(\href{mailto:pamessina@uc.cl}{pamessina@uc.cl}) &
+	\textbf{Sitio Web} & : & Siding y Github
+\end{tabular}
+\end{center}
+
+\section*{Objetivos}
+
+\noindent
+El objetivo de este curso es que los alumnos desarrollen y apliquen los conocimientos
+aprendidos en los cursos de programación en el contexto de Programación Competitiva.
+Al finalizar el curso, el alumno habrá adquirido la destreza necesaria para
+resolver en un tiempo corto problemas de programación, aplicando algunas
+técnicas estándares. Adicionalmente, se espera preparar equipos para participar
+en el concurso de programación que organiza anualmente la ACM.\\
+
+\section*{Contenidos}
+\begin{enumerate}
+  \item Técnicas de diseño de algoritmos: backtracking, programación dinámica,
+	algoritmos codiciosos, dividir y conquistar.
+	\item Estructuras de datos: listas, árboles, grafos, arreglos.
+	\item Técnicas de programación: input/output, librerías estándar.
+	\item Algoritmos de uso frecuente: Dijkstra, Binary/Ternary search, BFS, DFS, otros.
+	\item Otros problemas: strings, matemáticas, geometría.
+\end{enumerate}
+
+\section*{Metodología}
+\noindent
+El curso se basa en clases teórico-prácticas, en que los alumnos deben desarrollar
+un set de problemas. En algunas ocasiones se tratará un tópico específico, habiendo una
+pequeña clase al principio, para luego resolver un set de problemas relacionado.\\
+
+\noindent
+Los problemas son evaluados por jueces automáticos, y pueden ser resueltos en grupos
+de no más de 3 personas, debiendo cada alumno enviar sus respuestas por separado.\\
+
+\noindent
+Los lenguajes de programación aceptados son C++, Java y Python.
+
+\section*{Evaluación}
+\noindent
+La evaluación del curso se basa en la asistencia y participación en clases. Se
+considerará presente a quien:
+
+\begin{enumerate}
+	\item Resuelva al menos un problema durante las clases teórico-prácticas, o
+	\item Resuelva al menos dos problemas durante las clases 100\% prácticas, o
+	\item Resuelva al menos tres problemas de manera remota (los contests estarán disponibles durante toda la semana).
+\end{enumerate}
+
+Tendrá un 7 quien tenga un 100\% de asistencia. Si no, se calculará su nota proporcionalmente
+a la cantidad de asistencias según los criterios anteriores.
+
+\section*{Bibliografía}
+\noindent
+Todo el material se encuentra disponible en las páginas del curso.
+
+\section*{POLÍTICA DE INTEGRIDAD ACADÉMICA DEL DEPARTAMENTO DE CIENCIA DE LA
+COMPUTACIÓN} Los alumnos de la Escuela de Ingeniería de la Pontificia
+Universidad Católica de Chile deben mantener un comportamiento acorde a la
+Declaración de Principios de la Universidad.  En particular, se espera que
+mantengan altos estándares de honestidad académica.  Cualquier acto deshonesto
+o fraude académico está prohibido; los alumnos que incurran en este tipo de
+acciones se exponen a un Procedimiento Sumario. Es responsabilidad de cada
+alumno conocer y respetar el documento sobre Integridad Académica publicado por
+la Dirección de Docencia de la Escuela de Ingeniería.\\
+
+Específicamente, para los cursos del Departamento de Ciencia de la Computación,
+rige obligatoriamente la siguiente \emph{política de integridad académica}.
+Todo trabajo presentado por un alumno para los efectos de la evaluación de un
+curso debe ser hecho \textbf{individualmente} por el alumno, \textbf{sin apoyo
+en material de terceros}.  Por ``trabajo'' se entiende en general las
+interrogaciones escritas, las tareas de programación u otras, los trabajos de
+laboratorio, los proyectos, el examen, entre otros.\\
+
+En particular, si un alumno copia un trabajo, o si a un alumno se le prueba que
+compró o intentó comprar un trabajo, \textbf{obtendrá nota final 1,1 en el
+curso} y se solicitará a la Dirección de Docencia de la Escuela de Ingeniería
+que no le permita retirar el curso de la carga académica semestral.\\
+
+Por ``copia'' se entiende incluir en el trabajo presentado como propio, partes
+hechas por otra persona.  En caso que corresponda a ``copia'' a otros alumnos,
+la sanción anterior se aplicará a todos los involucrados.  En todos los casos,
+se informará a la Dirección de Docencia de la Escuela de Ingeniería para que
+tome sanciones adicionales si lo estima conveniente.\\
+
+Obviamente, está permitido usar material disponible públicamente, por ejemplo,
+libros o contenidos tomados de Internet, \textbf{siempre y cuando se incluya la
+referencia correspondiente}.\\
+
+Lo anterior se entiende como complemento al Reglamento del Alumno de la
+Pontificia Universidad Católica de Chile
+(\href{http://www.ing.puc.cl/alumnos/reglamento/}{www.ing.puc.cl/alumnos/reglamento/}).
+Por ello, es posible pedir a la Universidad la aplicación de sanciones
+adicionales especificadas en dicho reglamento.
+
+\end{document}
