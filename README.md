@@ -84,7 +84,10 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
   * https://www.youtube.com/watch?v=2kREIkF9UAs
   * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/articulation_points_cut_edges.cpp
 * Diameter of a Tree: http://cs.stackexchange.com/questions/22855/algorithm-to-find-diameter-of-a-tree-using-bfs-dfs-why-does-it-work
-* Dijkstra: https://www.youtube.com/watch?v=gdmfOwyQlcI
+* Dijkstra:
+  * https://www.youtube.com/watch?v=gdmfOwyQlcI
+  * https://www-m9.ma.tum.de/graph-algorithms/spp-dijkstra/index_en.html
+  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/Dijkstra.cpp
 * Minimum Spanning Tree:
   * Kruskal's Algorithm:
     * https://www.youtube.com/watch?v=fAuF0EuZVCk
