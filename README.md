@@ -193,3 +193,7 @@ Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2
   * Disponibilidad: 03/31/2017 - 04/07/2017
   * Jueces a utilizar: Codeforces, Live Archive, URI, SPOJ
   * hints: Los mismos temas que el contest pasado: Grafos (BFS, DFS, Flood Fill, Dijkstra, Trees) + Binary Search + Ternary Search + Union-Find. Los cuatro problemas más difíciles del contest pasado fueron reutilizados, para que tengan la oportunidad de hacerlos de nuevo.
+* Taller 4: https://a2oj.com/contest?ID=31064
+  * Disponibilidad: 04/07/2017 - 04/21/2017 (dos semanas, por semana santa :D)
+  * Jueces a utilizar: Codeforces, Live Archive, URI, SPOJ
+  * hints: Taller enfocado principalmente en IMPLEMENTACIÓN: 7 problemas de implementación (ningún algoritmo muy complicado) + 5 problemas reutilizados de contests pasados. Para la asistencia sólo se tomarán en cuenta los primeros 7 problemas. Con respecto a los otros 5 problemas, se publicarán soluciones de ejemplo para que las puedan usar como "inspiración" para hacer sus propias implementaciones (haciendo copy-paste no aprenderán nada).
