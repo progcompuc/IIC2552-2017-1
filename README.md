@@ -197,3 +197,9 @@ Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2
   * Disponibilidad: 04/07/2017 - 04/21/2017 (dos semanas, por semana santa :D)
   * Jueces a utilizar: Codeforces, Live Archive, URI, SPOJ
   * hints: Taller enfocado principalmente en IMPLEMENTACIÓN: 7 problemas de implementación (ningún algoritmo muy complicado) + 5 problemas reutilizados de contests pasados. Para la asistencia sólo se tomarán en cuenta los primeros 7 problemas. Con respecto a los otros 5 problemas, se publicarán soluciones de ejemplo para que las puedan usar como "inspiración" para hacer sus propias implementaciones (la idea es no hacer copy-paste).
+  * Soluciones 5 problemas reutilizados:
+    * Geophysics Propsection: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/4010_GeophysicsProspection.cpp
+    * Galactic Taxes: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/UVA/13010_GalacticTaxes.cpp
+    * Height Map: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/7210_HeightMap.cpp
+    * Dinosaur Menace: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/DINOSM_DinosaurMenace.cpp
+    * Kefa and Park: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/580C_KefaAndPark.cpp
