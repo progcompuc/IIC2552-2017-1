@@ -203,3 +203,7 @@ Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2
     * Height Map: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/7210_HeightMap.cpp
     * Dinosaur Menace: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/DINOSM_DinosaurMenace.cpp
     * Kefa and Park: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/580C_KefaAndPark.cpp
+* Taller 5: https://a2oj.com/contest?ID=31316
+  * Disponibilidad: 04/21/2017 - 04/28/2017
+  * Jueces a utilizar: Codeforces
+  * hints: binary search, ternary search, implementación
