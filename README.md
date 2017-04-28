@@ -207,3 +207,8 @@ Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2
   * Disponibilidad: 04/21/2017 - 04/28/2017
   * Jueces a utilizar: Codeforces, URI
   * hints: binary search, ternary search, implementación
+* Taller 6: https://a2oj.com/contest?ID=31443
+  * Disponibilidad: 04/28/2017 - 05/05/2017
+  * Jueces a utilizar: Codeforces, Live Archive, URI
+  * hints: implementation, binary search, ternary search, dijkstra, implicit graph, bitwise operations, combinatorics
+  * NOTA: el taller tiene 8 problemas, los primeros 4 problemas son para la asistencia del taller actual, los otros 4 son problemas reusados del taller anterior para darles la oportunidad de recuperar la asistencia si es que no alcanzaron a hacer suficientes problemas. Las soluciones de los últimos 4 problemas van a ser explicadas en clases.
