@@ -226,4 +226,5 @@ Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2
      * problemas 5, 6 -> recuperar asistencia taller anterior
    * Soluciones de referencia (NO HACER COPY-PASTE)
      * The Art of Dealing with ATM: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/524C_TheArtOfDealingWithATMs.cpp
+     * Hex Statistics: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/HexStatistics.cpp
 
