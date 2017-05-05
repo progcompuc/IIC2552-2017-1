@@ -218,10 +218,10 @@ Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2
   * hints: implementation, binary search, ternary search, dijkstra, implicit graph, bitwise operations, combinatorics
   * NOTA: el taller tiene 8 problemas, los primeros 4 problemas son para la asistencia del taller actual, los otros 4 son problemas reusados del taller anterior para darles la oportunidad de recuperar la asistencia si es que no alcanzaron a hacer suficientes problemas. Las soluciones de los últimos 4 problemas van a ser explicadas en clases.
  * Taller 7: https://a2oj.com/contest?ID=31541
-  * Disponibilidad: 05/05/2017 - 05/12/2017
-  * Jueces a utilizar: Codeforces, URI
-  * hints: implicit graph, DAG, bitwise operations, longest/shortest path in DAG, modular arithmetics, combinatorics, binary search, implementation, constructive algorithms
-  * NOTA: 5 problemas en total
-    * problemas 1,2,3 -> asistencia taller actual
-    * problemas 4,5 -> recuperar asistencia taller anterior
+   * Disponibilidad: 05/05/2017 - 05/12/2017
+   * Jueces a utilizar: Codeforces, URI
+   * hints: implicit graph, DAG, bitwise operations, longest/shortest path in DAG, modular arithmetics, combinatorics, binary search, implementation, constructive algorithms
+   * NOTA: 5 problemas en total
+     * problemas 1,2,3 -> asistencia taller actual
+     * problemas 4,5 -> recuperar asistencia taller anterior
 
