@@ -221,7 +221,7 @@ Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2
    * Disponibilidad: 05/05/2017 - 05/12/2017
    * Jueces a utilizar: Codeforces, URI
    * hints: implicit graph, DAG, bitwise operations, longest/shortest path in DAG, modular arithmetics, combinatorics, binary search, implementation, constructive algorithms
-   * NOTA: 5 problemas en total
-     * problemas 1,2,3 -> asistencia taller actual
-     * problemas 4,5 -> recuperar asistencia taller anterior
+   * NOTA: 6 problemas en total
+     * problemas 1, 2, 3, 4 -> asistencia taller actual
+     * problemas 5, 6 -> recuperar asistencia taller anterior
 
