@@ -224,4 +224,6 @@ Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2
    * NOTA: 6 problemas en total
      * problemas 1, 2, 3, 4 -> asistencia taller actual
      * problemas 5, 6 -> recuperar asistencia taller anterior
+   * Soluciones de referencia (NO HACER COPY-PASTE)
+     * The Art of Dealing with ATM: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/524C_TheArtOfDealingWithATMs.cpp
 
