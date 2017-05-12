@@ -65,8 +65,9 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
 
 ### Dynamic Programming (DP):
 * ¿Qué es DP?
-  * https://www.youtube.com/watch?v=P8Cm_koLdxM
+  * https://www.youtube.com/watch?v=OQ5jsbhAv_M  
   * https://www.youtube.com/watch?v=P8Xa2BitN3I
+  * https://www.youtube.com/watch?v=P8Cm_koLdxM
 * Bottom-Up vs Top-Down: http://stackoverflow.com/questions/6164629/dynamic-programming-and-memoization-bottom-up-vs-top-down-approaches
 * Playlist con muchos ejemplos: https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
 * Optimizaciones para DP: 
