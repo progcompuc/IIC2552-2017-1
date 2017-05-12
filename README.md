@@ -230,7 +230,9 @@ Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2
      * Environment Protection: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/6135_EnvironmentProtection.cpp
      
 * Taller 8: https://a2oj.com/contest?ID=31619
-   * Disponibilidad: 05/12/2017 - 05/19/2017
+   * Disponibilidad: 05/12/2017 - 05/26/2017 (2 semanas)
    * Jueces a utilizar: Codeforces, Live Archive, URI
    * hints: DP, implementation
-   * NOTA: 6 problemas en total -> todos son para asistencia taller actual
+   * Aclaraciones:
+     * 6 problemas en total -> todos son para asistencia taller actual
+     * Al menos 3 problemas para quedar presentes (presencial o desde la casa)
