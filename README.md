@@ -237,3 +237,9 @@ Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2
    * Aclaraciones:
      * 6 problemas en total -> todos son para asistencia taller actual
      * Al menos 3 problemas para quedar presentes (presencial o desde la casa)
+   * Soluciones de referencia (NO HACER COPY-PASTE):
+     * Boredom: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/455A_Boredom.cpp
+     * Gene Assembly: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/2387_GeneAssembly.cpp
+     * Candy: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/4212_Candy.cpp
+     * Hyperactive Girl: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/HyperactiveGirl.cpp
+     * Lucky Number Representation: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/354E_LuckyNumberRepresentation.cpp
