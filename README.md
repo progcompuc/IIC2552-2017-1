@@ -248,3 +248,5 @@ Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2
   * Disponibilidad: 05/26/2017 - 06/09/2017 (2 semanas)
   * Jueces a utilizar: URI, Codeforces
   * hints: DP, knapsack, bipartite graph, bicoloration, DFS/BFS, binary search
+  * Soluciones de Referencia (NO HAGAN COPY-PASTE):
+    * Alyona and the Tree: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/682C_AlyonaAndTheTree.cpp
