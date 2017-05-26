@@ -243,3 +243,8 @@ Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2
      * Candy: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/4212_Candy.cpp
      * Hyperactive Girl: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/HyperactiveGirl.cpp
      * Lucky Number Representation: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/354E_LuckyNumberRepresentation.cpp
+
+* Taller 9: https://a2oj.com/contest?ID=31802
+  * Disponibilidad: 05/26/2017 - 06/09/2017 (2 semanas)
+  * Jueces a utilizar: URI, Codeforces
+  * hints: DP, knapsack, bipartite graph, bicoloration, DFS/BFS, binary search
