@@ -250,7 +250,11 @@ Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2
   * hints: DP, knapsack, bipartite graph, bicoloration, DFS/BFS, binary search
   * Soluciones de Referencia (NO HAGAN COPY-PASTE):
     * Alyona and the Tree: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/682C_AlyonaAndTheTree.cpp
-
+    
+* Taller 10: https://a2oj.com/contest?ID=31908
+  * Disponibilidad: 06/02/2017 - 06/16/2017 (2 semanas)
+  * Jueces a utilizar: Codeforces
+  * hints: ver los tags de los problemas en codeforces
 __________________________________________________
 
 ### Seguimiento de Asistencia y Problemas Resueltos
