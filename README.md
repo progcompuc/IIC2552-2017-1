@@ -57,7 +57,9 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
   * https://www.youtube.com/watch?v=ID00PMy0-vE
   * http://www.geeksforgeeks.org/union-find-algorithm-set-2-union-by-rank/
   * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Data_Structures/unionfind.cpp
-* Segment Tree: https://www.youtube.com/watch?v=ZBHKZF5w4YU
+* Segment Tree:
+  * https://www.youtube.com/watch?v=ZBHKZF5w4YU
+  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Data_Structures/segment-tree.cpp
 * Segment Tree Lazy: https://www.youtube.com/watch?v=xuoQdt5pHj0
 * Fenwick Tree:  & https://www.youtube.com/watch?v=CWDQJGaN1gY
 * Fenwick Tree 2D: http://www.geeksforgeeks.org/two-dimensional-binary-indexed-tree-or-fenwick-tree/
