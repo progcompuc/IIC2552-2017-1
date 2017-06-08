@@ -260,6 +260,7 @@ Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2
   * hints: ver los tags de los problemas en codeforces
   * Soluciones de Referencia (NO HAGAN COPY-PASTE):
     * Vladik and Entertaining Flags: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/811E_VladikAndEntertainingFlags.cpp
+    * Tanya and Toys: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/659C_TanyaAndToys.cpp
 __________________________________________________
 
 ### Seguimiento de Asistencia y Problemas Resueltos
