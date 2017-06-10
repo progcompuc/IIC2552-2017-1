@@ -24,6 +24,7 @@ Bienvenidos a la página de apoyo del curso Taller de Programación Avanzada.
 * Google Sheet con soluciones de las últimas regionales (work in progress): https://docs.google.com/spreadsheets/d/1F8aBV83xKPVFfq_A0EKhCa8qbjf0gKKg8puQF-rbonQ/pubhtml
 
 ### Para aprender C++ (si es que quieren)
+ * LearnCpp: http://www.learncpp.com/
  * Intro a C++: https://youtu.be/pqWsOsfGKA0
  * Intro a la Programación Competitiva en C++: https://youtu.be/zTUJFG34Tyw
  * Estructuras básicas en C++: https://youtu.be/OldL5e5eGmY
