@@ -268,6 +268,11 @@ Utilizaremos A2OJ (https://a2oj.com/) como plataforma para realizar contests. A2
   * Disponibilidad: 06/09/2017 - 06/23/2017 (2 semanas)
   * Jueces a utilizar: Codeforces
   * hints: ver los tags de los problemas en codeforces
+  
+* Taller 12: https://a2oj.com/contest?ID=32109
+  * Disponibilidad: 06/16/2017 - 06/30/2017 (2 semanas)
+  * Jueces a utilizar: Codeforces, Live Archive
+  * hints: DFS, BFS, Divide & Conquer, DP, Segment Tree (range minimum query), bicoloration
 __________________________________________________
 
 ### Seguimiento de Asistencia y Problemas Resueltos
